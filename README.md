@@ -23,7 +23,23 @@ See [Video Link](https://drive.google.com/file/d/1VX98sd_SVWt1pfEE_kztgDjA-QVbsE
 
 Open the terminal and enter "node server" into the console.
 
-Open insomnia
+Open insomnia 
+
+To select categories use http://localhost:3001/api/categories/ as shown below.
+
+[Insomnia screenshot](./assets/insomnia%20screen%20shot.png)
+
+To select tags use http://localhost:3001/api/tags/
+
+To select products use  http://localhost:3001/api/products/
+
+GET routes can be used to see data in the database
+
+POST routes can be used to create new data.
+
+PUT routes can be used to update data.
+
+DELETE routes can be used to delete data.
 
 
 
